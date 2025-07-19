@@ -8,8 +8,7 @@ This repository contains the code for a simple Blog application built using Reac
 - **Display Posts**: View a list of all submitted blog posts.
 - **Delete Posts**: Remove posts from the blog.
 - **Component Structure**: Organized with reusable components.
-- **Basic Styling**: Simple and clean user interface using CSS.
-
+  
 ## Getting Started
 
 ### Prerequisites
